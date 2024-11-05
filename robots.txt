@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ofeyoadi.github.io/JMP/sitemap_index.txt
+Sitemap: https://ofeyoadi.github.io/KVa/sitemap_index.txt
+Sitemap: https://ofeyoadi.github.io/LGK/sitemap_index.txt
+Sitemap: https://ofeyoadi.github.io/LUW/sitemap_index.txt
